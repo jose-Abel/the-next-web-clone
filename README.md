@@ -15,7 +15,7 @@ Building an HTML and css page that matches the appearance of this page [TNW](htt
 
 # Live Demo
 
-[Click here for Live Demo]()
+[Click here for Live Demo](https://jose-abel.github.io/the-next-web-clone/)
 
 # Getting Started
 
