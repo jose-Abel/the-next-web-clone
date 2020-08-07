@@ -79,7 +79,7 @@ body {
 }
 
 .icons-navbar {
-  transform: translate(1rem, 2rem);
+  transform: translate(1rem, -1rem);
 }
 
 .icons-navbar-li {
